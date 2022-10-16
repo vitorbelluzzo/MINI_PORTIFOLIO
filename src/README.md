@@ -9,7 +9,7 @@ Projeto desenvolvido no evento mapadev week do canal Dev em dobro
 - JAVASCRIPT
 - GIT e GITHUB
 
-[Clique aqui para acessar o projeto](https://vitorbelluzzo.github.io/MINI_PORTIFÓLIO/)
+[Clique aqui para acessar o projeto](https://vitorbelluzzo.github.io/MINI_PORTIFOLIO/)
 
 ## 📪 Contato
 
